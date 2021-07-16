@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>wellington</title>
+    <link href="https://caipre.github.io/wellington/feed.xml" rel="self" />
+    <link href="https://caipre.github.io/wellington" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Nick</name>
+    </author>
+    <id>https://caipre.github.io/wellington</id>
+
+</feed>

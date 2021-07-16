@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://caipre.github.io/wellington/sitemap.xml
